@@ -28,7 +28,7 @@ This toolkit helps brands and creators identify fake followers, find mutual conn
 > A smart lookup utility to analyze Instagram followers, detect fake accounts, and identify mutual followers. Ideal for marketers, influencers, and agencies who need authentic audience insights.
 
 <p align="center">
-  <img src="instagram-followers-lookup.png" alt="instagram-followers-lookup.png" width="70%">
+  <img src="instagram-followers-lookup.png" alt="instagram-followers-lookup.png" width="80%">
 </p>
 
 ### Key Benefits
